@@ -1,7 +1,3 @@
----
-toc: false
----
-
 # Preface {.unnumbered}
 
 Welcome to Cards & Stories. This book is born from a love of postcards—those small, often humble pieces of paper that carry with them a world of memory, place, and connection. For me, postcards have always been more than souvenirs. They are fragments of journeys, delicate keepsakes that bridge distance with an image and a few thoughtful words.

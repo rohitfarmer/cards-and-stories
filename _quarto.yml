@@ -3,26 +3,28 @@ project:
   output-dir: _book
 
 book:
-  title: "Cards and Stories"
+  title: "Cards & Stories"
   author: "Rohit Farmer"
   date: "2025-08-28"
-  downloads: [epub]
+  #downloads: [epub]
   page-navigation: true
-  reader-mode: true
+  reader-mode: false
   page-footer:
     left: |
-      Cards and Stories was written by Rohit Farmer.
+      Cards & Stories was written by Rohit Farmer.
     right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
+      © 2025 Rohit Farmer · <a href="license.html">License</a> ·
+      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
   
   cover-image: images/cover.png
   favicon: images/cover.png
   
   chapters:
     - index.qmd
-    #- preface.qmd
+    - license.qmd
     - dedication-invitation.qmd
-    - part: "Favourites"
+    - introduction.qmd
+    - part: "PART I: FAVOURITES"
       chapters:
         - parts/favourites/mcmurdo-station/index.qmd
     - closing-note.qmd
@@ -31,9 +33,15 @@ format:
   html:
     theme:
       - litera
+    css: styles.css
+    fontsize: 1.2em
+    linestretch: 1.7
     toc: false
     number-sections: false
     lightbox: true
+    link-external-newwindow: true
+    link-external-icon: true
+    
   epub:
     cover-image: images/cover.png
     toc: false
