@@ -53,3 +53,37 @@ footer#quarto-footer, .nav-footer {
   border-top: 1px solid #d5d1c9;        /* subtle divider line */
   color: #444;                          /* text slightly darker */
 }
+
+/* Image effects */
+/* Global polaroid look for content images (incl. lightbox thumbs) */
+.quarto-content img,
+.quarto-figure img,
+.lightbox img {
+  background: #fff !important;
+  padding: 10px !important;
+  box-shadow: 0 12px 28px rgba(0,0,0,.55) !important;
+  border-radius: 2px !important;
+  display: block !important;
+  margin: 1.5rem auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Opt-out for any image you don’t want styled */
+.quarto-content img.no-polaroid { 
+  background: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  margin: initial !important;
+}
+
+/* Caption styling — like a Polaroid label */
+.quarto-figure figcaption,
+figure figcaption {
+  font-size: 0.85rem;       /* slightly smaller */
+  color: #666;              /* soft grey */
+  text-align: center;       /* centered under image */
+  margin-top: 0.4rem;       /* small gap */
+  font-style: italic;       /* optional: handwritten feel */
+}

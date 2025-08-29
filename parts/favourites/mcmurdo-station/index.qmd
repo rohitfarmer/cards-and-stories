@@ -1,7 +1,8 @@
 # McMurdo Station
 
+
+![Photo of sunset looking out over Mt Erebus from Castle rock.](mcmurdo-front.webp){fig-alt="Photo of sunset looking out over Mt Erebus from Castle rock." group="mcmurdo"}
+
+![Postmarked May 05, 2025, with the message "Greetings from antartica! The sun set here on april 24 and rises again in the middle of a snowstorm but today will be warm at -5 F. Can you believe there are active volcanoes here? Mt. Erebus is always smoking and even erupts tiny amounts of gold! Best wishes, N"](mcmurdo-back-address-crop.webp){fig-alt="Handwritten message from the sender." group="mcmurdo"}
+
 The very first postcard in this collection is likely the one that has traveled the farthest—and from one of the most extraordinary places on Earth. It came from [McMurdo Station in Antarctica](https://en.wikipedia.org/wiki/McMurdo_Station). A fellow Redditor stationed there offered to mail a limited number of postcards to anyone interested, and I was lucky enough to respond quickly and secure a spot. In return, I sent him a postcard from Maryland, USA, creating a small but meaningful exchange—two postcards crossing continents and oceans, connecting two strangers at opposite ends of the world.
-
-![](mcmurdo-front.webp){fig-alt="Photo of sunset looking out over Mt Erebus from Castle rock." style="background: white; padding: 10px; box-shadow: 0 12px 28px rgba(0,0,0,.55); border-radius: 2px;" group="mcmurdo"}
-
-![](mcmurdo-back-address-crop.webp){fig-alt="Handwritten message from the sender." style="background: white; padding: 10px; box-shadow: 0 12px 28px rgba(0,0,0,.55); border-radius: 2px;" group="mcmurdo"}
