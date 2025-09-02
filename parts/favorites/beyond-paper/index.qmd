@@ -1,4 +1,6 @@
-# Cork Postcard
+# Beyond Paper
+
+*Not all postcards are made of paper. Some arrive crafted from cork, wood, fabric, or other surprising materials, turning a simple card into a tactile keepsake. These postcards carry not only images and words, but also the textures of creativity—proof that memory and message can live in many forms.*
 
 ![Postcard from Porto, Portugal, made of cork with a vibrant mosaic pattern.](porto-front.webp){fig-alt="Front of a postcard from Porto, Portugal, made of cork with a vibrant mosaic pattern." group="porto"}
 

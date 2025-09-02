@@ -1,10 +1,12 @@
-# Vintage Postcards
+# Vintage Voices
+
+*A vintage postcard is a window to another time. Faded ink, sepia tones, and worn corners reveal stories from decades past, carrying with them the aesthetics, language, and spirit of their era. These cards remind us that every journey, no matter how old, continues to speak across the years.*
 
 :::{layout-ncol="2"}
 
 ![W.C.3-Wayne Hall, State Teachers' College, West Chester, PA](pennsylvania-front-may-2025.webp){fig-alt="W.C.3-Wayne Hall, State Teachers' College, West Chester, PA" group="waynehall"}
 
-![Postmarked on May 04, 2025, with the message "Dear Rohit, My friend and I went to Adamstown, PA, which is known as the Antiques Capital of the USA. The whole town is like one big antique mall. I found this vintage postcard there, and I thought it'd be unique among the cards in your collection. I think if you put your nose close enough, it smells old! If I can't get it mailed here, it'll go out with the CO one on Monday. Have a great week! - Eliza G (omgwtflols)"](pennsylvania-back-address-crop-may-2025.webp){fig-alt="back" group="waynehall"}
+![Postmarked on May 04, 2025, with the message "Dear Rohit, My friend and I went to Adamstown, PA, which is known as the Antiques Capital of the USA. The whole town is like one big antique mall. I found this vintage postcard there, and I thought it'd be unique among the cards in your collection. I think if you put your nose close enough, it smells old! If I can't get it mailed here, it'll go out with the CO one on Monday. Have a great week! - Eliza G (omgwtflols)"](pennsylvania-back-address-crop-may-2025.webp){fig-alt="back of a postcard with a message" group="waynehall"}
 
 :::
 

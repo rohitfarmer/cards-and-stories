@@ -1,5 +1,6 @@
-# McMurdo Station
+# Outposts of the World
 
+*Some postcards journey from places few have seen—remote stations, isolated islands, or the farthest reaches of the world. These cards are more than souvenirs; they are traces of human presence at the edges of geography, glimpses of life where most maps fade into blankness.*
 
 ![Photo of sunset looking out over Mt Erebus from Castle rock.](mcmurdo-front.webp){fig-alt="Photo of sunset looking out over Mt Erebus from Castle rock." group="mcmurdo"}
 

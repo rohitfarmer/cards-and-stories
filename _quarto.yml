@@ -26,9 +26,10 @@ book:
     - introduction.qmd
     - part: "Part I: Favorites"
       chapters:
-        - parts/favorites/mcmurdo-station/index.qmd
-        - parts/favorites/cork-postcard/index.qmd
-        - parts/favorites/vintage-postcards/index.qmd
+        - parts/favorites/outposts-of-the-world/index.qmd
+        - parts/favorites/beyond-paper/index.qmd
+        - parts/favorites/vintage-voices/index.qmd
+        - parts/favorites/the-language-of-stamps/index.qmd
     - closing-note.qmd
 
 format:
