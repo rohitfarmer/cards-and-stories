@@ -2,6 +2,12 @@
 
 *Postcards travel not only through the images they carry, but also through the stamps affixed to them. Each stamp is a miniature work of art, a symbol of its country, and a trace of its journey across the world. In this section, the focus shifts to those tiny emblems of history and culture—the stamps and postmarks—that make every postcard feel alive with movement, time, and place.*
 
-![](vegas-back-address-crop.webp){fig-alt="" group="vegas"}
+:::{layout-ncol="2"}
 
-![](vegas-front.webp){fig-alt="" group="vegas"}
+![Postmarked on July 16, 2025, with the message "Dear Rohit Farmer, Nevada, where I live, is one of the only states where I don't have any old postcards, only newer touristy ones. Anyway this is what passes for architecture in Las Vegas lol. Yours, JJ"](vegas-back-address-crop.webp){fig-alt="back of a postcard with a message and multiple stamps" group="vegas"}
+
+![Sahara hotel in Las Vegas Vegas](vegas-front.webp){fig-alt="" group="vegas"}
+
+:::
+
+Stamps from left to right: (row 1) An 18-cent commemorative stamp honoring [Frederic Remington](https://postalmuseum.si.edu/object/npm_1985.0021.2529), issued on October 9, 1981, in Oklahoma City, Oklahoma; a 6-cent ["Winter Sunday in Norway, Maine"](https://www.mysticstamp.com/1384f-1969-6c-winter-sunday-in-norway-maine-tagging-omitted/) stamp, issued on November 3, 1969, in Christmas, Florida. (row 2) A 34-cent commemorative stamp honoring [James Madison](https://postalmuseum.si.edu/object/npm_2002.2010.7), issued on October 18, 2001, in New York; a 2-cent Cape Hatteras National Seashore stamp from the [National Parks Centennial Issue](https://postalmuseum.si.edu/exhibition/about-us-stamps-modern-period-1940-present-commemorative-issues-1970-1979-1972-1973), issued on April 5, 1972, in Hatteras, North Carolina; a 1-cent commemorative stamp recognizing the 150^th^ anniversary of [Abraham Lincoln's birth](https://postalmuseum.si.edu/exhibition/about-us-stamps-modern-period-1940-present-commemorative-issues-1950-1959-1958-1959-0) in 1809, issued on February 12, 1959, in Hodgenville, Kentucky.

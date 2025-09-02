@@ -1,5 +1,5 @@
 /* 1) Load your Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Lora:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Lora:wght@400;500;700&display=swap&family=Caveat:wght@400;600&display=swap');
 
 /* 2) Override Bootstrap font variables (used by Litera) */
 :root{
@@ -86,4 +86,36 @@ figure figcaption {
   text-align: center;       /* centered under image */
   margin-top: 0.4rem;       /* small gap */
   font-style: italic;       /* optional: handwritten feel */
+}
+
+/* Epigraph / motto under Part titles */
+.part-epigraph {
+  font-family: 'Caveat', cursive !important;  /* force Caveat */
+  text-align: center;
+  color: #666;                /* soft grey */
+  font-size: 1rem;            /* slightly smaller than body */
+  margin: 0.5rem auto 2rem;   /* some space above/below */
+  max-width: 600px;           /* keeps it narrow for elegance */
+  line-height: 1.4;
+}
+
+/* Optional: a subtle divider line above epigraph */
+.part-epigraph::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 1px;
+  background: #aaa;
+  margin: 0 auto 0.8rem;
+  opacity: 0.4;
+}
+
+.part-epigraph::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 1px;
+  background: #aaa;
+  margin: 0 auto 0.8rem;
+  opacity: 0.4;
 }

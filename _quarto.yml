@@ -8,6 +8,7 @@ book:
   date: "2025-08-28"
   #downloads: [epub]
   page-navigation: true
+  back-to-top-navigation: true
   reader-mode: false
   page-footer:
     left: |
@@ -24,12 +25,14 @@ book:
     - license.qmd
     - dedication-invitation.qmd
     - introduction.qmd
-    - part: "Part I: Favorites"
+    - part: "PART I: Favorites"
       chapters:
         - parts/favorites/outposts-of-the-world/index.qmd
         - parts/favorites/beyond-paper/index.qmd
         - parts/favorites/vintage-voices/index.qmd
         - parts/favorites/the-language-of-stamps/index.qmd
+    - part: "PART II: Sent by Friends"
+    - part: "PART III: Collected While Travelling"
     - closing-note.qmd
 
 format:
