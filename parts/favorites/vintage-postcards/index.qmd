@@ -1,0 +1,21 @@
+# Vintage Postcards
+
+:::{layout-ncol="2"}
+
+![W.C.3-Wayne Hall, State Teachers' College, West Chester, PA](pennsylvania-front-may-2025.webp){fig-alt="W.C.3-Wayne Hall, State Teachers' College, West Chester, PA" group="waynehall"}
+
+![Postmarked on May 04, 2025, with the message "Dear Rohit, My friend and I went to Adamstown, PA, which is known as the Antiques Capital of the USA. The whole town is like one big antique mall. I found this vintage postcard there, and I thought it'd be unique among the cards in your collection. I think if you put your nose close enough, it smells old! If I can't get it mailed here, it'll go out with the CO one on Monday. Have a great week! - Eliza G (omgwtflols)"](pennsylvania-back-address-crop-may-2025.webp){fig-alt="back" group="waynehall"}
+
+:::
+
+
+:::{layout-ncol="2"}
+
+![Historic Elfreth's Alley, Philadelphia, PA](Philadelphia-front.webp){fig-alt="front" group="elfreth"}
+
+![Postmarked on May 27, 2025, with the message "Hello! I hope you enjoy this postcard from Philly! This alley is the oldest alley in the US & it is still lived in! Enjoy! Nancy](Philadelphia-back-address-crop.webp){fig-alt="back" group="elfreth"}
+
+:::
+
+Two Redditors sent these postcard in response to my post in the [r/PostCardExchange](https://www.reddit.com/r/PostCardExchange/comments/1k40wwu/i_am_from_maryland_and_am_trying_to_collect/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) subreddit, requesting postcards from all the US states for my [collection](https://rohitfarmer.com/posts/2025/collecting-usa-postcards/). I do not know how old these postcards are, but they definitely look and smell vintage.
+

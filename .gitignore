@@ -9,7 +9,6 @@
 # User-specific files
 .Ruserdata
 _book
-*.webp
 *.DS_Store
 
 # Example code in package build process

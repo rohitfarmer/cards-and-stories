@@ -24,10 +24,11 @@ book:
     - license.qmd
     - dedication-invitation.qmd
     - introduction.qmd
-    - part: "Part I: Favourites"
+    - part: "Part I: Favorites"
       chapters:
-        - parts/favourites/mcmurdo-station/index.qmd
-        - parts/favourites/cork-postcard/index.qmd
+        - parts/favorites/mcmurdo-station/index.qmd
+        - parts/favorites/cork-postcard/index.qmd
+        - parts/favorites/vintage-postcards/index.qmd
     - closing-note.qmd
 
 format:
