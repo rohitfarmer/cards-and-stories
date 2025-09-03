@@ -32,6 +32,9 @@ book:
         - parts/favorites/vintage-voices/index.qmd
         - parts/favorites/the-language-of-stamps/index.qmd
     - part: "PART II: Sent by Friends"
+      chapters:
+        - parts/sent-by-friends/italy/index.qmd
+        - parts/sent-by-friends/ireland/index.qmd
     - part: "PART III: Collected While Travelling"
     - closing-note.qmd
 
@@ -41,7 +44,7 @@ format:
       - litera
     css: styles.css
     fontsize: 1.2em
-    linestretch: 1.7
+    linestretch: 1.5
     toc: false
     number-sections: false
     lightbox: true

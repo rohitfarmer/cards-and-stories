@@ -6,8 +6,20 @@
 
 ![Postmarked on July 16, 2025, with the message "Dear Rohit Farmer, Nevada, where I live, is one of the only states where I don't have any old postcards, only newer touristy ones. Anyway this is what passes for architecture in Las Vegas lol. Yours, JJ"](vegas-back-address-crop.webp){fig-alt="back of a postcard with a message and multiple stamps" group="vegas"}
 
-![Sahara hotel in Las Vegas Vegas](vegas-front.webp){fig-alt="" group="vegas"}
+![Sahara hotel in Las Vegas Vegas](vegas-front.webp){fig-alt="Photo of the Sahara hotel from Las Vegas." group="vegas"}
 
 :::
 
 Stamps from left to right: (row 1) An 18-cent commemorative stamp honoring [Frederic Remington](https://postalmuseum.si.edu/object/npm_1985.0021.2529), issued on October 9, 1981, in Oklahoma City, Oklahoma; a 6-cent ["Winter Sunday in Norway, Maine"](https://www.mysticstamp.com/1384f-1969-6c-winter-sunday-in-norway-maine-tagging-omitted/) stamp, issued on November 3, 1969, in Christmas, Florida. (row 2) A 34-cent commemorative stamp honoring [James Madison](https://postalmuseum.si.edu/object/npm_2002.2010.7), issued on October 18, 2001, in New York; a 2-cent Cape Hatteras National Seashore stamp from the [National Parks Centennial Issue](https://postalmuseum.si.edu/exhibition/about-us-stamps-modern-period-1940-present-commemorative-issues-1970-1979-1972-1973), issued on April 5, 1972, in Hatteras, North Carolina; a 1-cent commemorative stamp recognizing the 150^th^ anniversary of [Abraham Lincoln's birth](https://postalmuseum.si.edu/exhibition/about-us-stamps-modern-period-1940-present-commemorative-issues-1950-1959-1958-1959-0) in 1809, issued on February 12, 1959, in Hodgenville, Kentucky.
+
+---
+
+:::{layout-ncol="2"}
+
+![Postmarked April 2025, with the message "Got this in a random etsy assortment forever ago and been sitting on it ever since! Glad it's finally going to someone who'll appreciate it! - Kiera u/tinygaynarcissist"](montana-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender." group="montana"}
+
+![Montana The Treasure State](montana-front.webp){fig-alt="Front of the postcard from Montana." group="montana"}
+
+:::
+
+Stamps from left to right: A 20-cent [Flag Over Supreme Court](https://www.si.edu/object/20c-flag-over-supreme-court-single%3Anpm_1985.0021.2511) stamp, issued on  December 17, 1981, in Washington DC; a 20-cent commemorative stamp honoring [Family Unit](https://www.mysticstamp.com/2104-1984-20c-family-unity/) designed by a student as the result of a nationwide contest, issued on  October 1, 1984, in Shaker Heights, Ohio; a 20-cent commemorative stamp honoring American author [Horatio Alger](https://postalmuseum.si.edu/object/npm_1999.2004.255), issued on April 30, 1982, in Willow Grove, Pennsylvania.

@@ -1,0 +1,10 @@
+# Italy
+
+:::{layout-ncol="2"}
+
+![Photo of Taormina - Greek Theater](sicilia-front.webp){fig-alt="Photo of Taormina - Greek Theater" group="taormina"}
+
+![Sent in summer of 2025, with the message "Saluti dalla Sicilia! Sicily could be a great place for a new lab. Stunning views of Etna, sea breeze in the corridors, and granita breaks every 30 minutes to cope with the occasional lava anxiety! See you soon :) Vittoria](sicilia-back-address-crop.webp){fig-alt="postcard back" group="taormina"}
+
+:::
+
