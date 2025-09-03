@@ -36,6 +36,7 @@ book:
         - parts/sent-by-friends/croatia/index.qmd
         - parts/sent-by-friends/ireland/index.qmd
         - parts/sent-by-friends/italy/index.qmd
+        - parts/sent-by-friends/usa/index.qmd
     - part: parts/collected-while-traveling/index.qmd
     - epilog/index.qmd
 

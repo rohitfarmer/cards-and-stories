@@ -1,0 +1,9 @@
+# United States of America (USA)
+
+:::{layout-ncol="2"}
+![See the milky way in Joshua Tree National Park](joshua-tree-np-front.webp){fig-alt="Postcard front with a picture of night sky in Joshua Tree National Park" group="joshua-brian"}
+
+![Postmarked July 8, 2021, with the message "Hey Rohit, I'm taking a vacation from my vacation in Palm Springs, CA, I got to see Joshua Tree NP, and it was great! See you back in MD - Brian"](joshua-tree-np-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the caption of this figure" group="joshua-brian"}
+:::
+
+This postcard came from my colleague at the NIH, Brian, while he was vacationing in California.
