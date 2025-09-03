@@ -1,0 +1,9 @@
+# Croatia
+
+:::{layout-ncol="2"}
+![Dubrovnik Croatia](croatia-front.webp){fig-alt="Photo of the city Dubrovnik in Croatia." group="croatia-brian"}
+
+![Sent in 2023, with the message "Dear Rohit, I am having a magnificient time in Croatia, and I never want to come back to work! If all goes well I will meet a beautiful lady & stay! ❤️ Brian"](croatia-back-address-crop.webp){fig-alt="Back of the postcard with the senders message as mentioned in the figure caption." group="croatia-brian"}
+:::
+
+This postcard came from my colleague at the NIH, Brian, while he was vacationing in Croatia. I had accidentally given him the wrong address—4550 instead of my real street number, 5440. Somehow, despite the mistake, the card still found its way to me right on time, as if determined that a small mix-up wouldn’t keep it from reaching its destination.

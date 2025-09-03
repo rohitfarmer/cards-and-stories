@@ -17,9 +17,11 @@ With inline CSS
 
 Without inline CSS
 ```
+:::{layout-ncol="2"}
 ![](mcmurdo-front.webp){fig-alt="postcard front" group="mcmurdo"}
 
 ![](mcmurdo-back-address-crop.webp){fig-alt="postcard back" group="mcmurdo"}
+:::
 ```
 
 To exclude polaroid effect

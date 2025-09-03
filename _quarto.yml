@@ -17,26 +17,27 @@ book:
       © 2025 Rohit Farmer · <a href="license.html">License</a> ·
       <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
   
-  cover-image: images/cover.png
-  favicon: images/cover.png
+  cover-image: images/cover.webp
+  favicon: images/cover.webp
   
   chapters:
     - index.qmd
-    - license.qmd
-    - dedication-invitation.qmd
-    - introduction.qmd
-    - part: "PART I: Favorites"
+    - license/index.qmd
+    - dedication/index.qmd
+    - introduction/index.qmd
+    - part: parts/favorites/index.qmd
       chapters:
         - parts/favorites/outposts-of-the-world/index.qmd
         - parts/favorites/beyond-paper/index.qmd
         - parts/favorites/vintage-voices/index.qmd
         - parts/favorites/the-language-of-stamps/index.qmd
-    - part: "PART II: Sent by Friends"
+    - part: parts/sent-by-friends/index.qmd
       chapters:
-        - parts/sent-by-friends/italy/index.qmd
+        - parts/sent-by-friends/croatia/index.qmd
         - parts/sent-by-friends/ireland/index.qmd
-    - part: "PART III: Collected While Travelling"
-    - closing-note.qmd
+        - parts/sent-by-friends/italy/index.qmd
+    - part: parts/collected-while-traveling/index.qmd
+    - epilog/index.qmd
 
 format:
   html:
