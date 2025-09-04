@@ -4,12 +4,17 @@ project:
 
 book:
   title: "Cards & Stories"
+  #description: "An elegant, image-rich postcard book—stories from friends and from Rohit's own wanderings."
   author: "Rohit Farmer"
   date: "2025-08-28"
+  site-url: https://cardsandstories.rohitfarmer.com
+  #sharing: [twitter, facebook]
   #downloads: [epub]
   page-navigation: true
   back-to-top-navigation: true
   reader-mode: false
+  sidebar:
+    style: "floating"
   page-footer:
     left: |
       Cards & Stories was written by Rohit Farmer.
@@ -18,7 +23,13 @@ book:
       <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
   
   cover-image: images/cover.webp
+  cover-image-alt: |
+    Book cover with fronts and backs of selected postcards placed in a grid. 
   favicon: images/cover.webp
+
+  twitter-card: true
+  open-graph: 
+    description: "An elegant, image-rich postcard book—stories from friends and from Rohit's own wanderings."
   
   chapters:
     - index.qmd
@@ -37,7 +48,10 @@ book:
         - parts/sent-by-friends/ireland/index.qmd
         - parts/sent-by-friends/italy/index.qmd
         - parts/sent-by-friends/usa/index.qmd
-    - part: parts/collected-while-traveling/index.qmd
+    - part: parts/collected-along-the-way/index.qmd
+      chapters:
+        - parts/collected-along-the-way/outdoors/index.qmd
+        - parts/collected-along-the-way/museums/index.qmd
     - epilog/index.qmd
 
 format:
