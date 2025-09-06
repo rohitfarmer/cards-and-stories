@@ -1,3 +1,33 @@
 # Trails, Parks & Coasts
 
-There’s a quiet magic in the outdoors — in the way trails wind into forests, waves roll onto forgotten shores, and sunlight filters through old trees. These postcards were collected on hikes, SUP adventures, coastal getaways, and national park visits — little fragments of wild places I’ve been fortunate to wander through.
+*There’s a quiet magic in the outdoors — in the way trails wind into forests, waves roll onto forgotten shores, and sunlight filters through old trees. These postcards were collected on hikes, SUP adventures, coastal getaways, and national park visits — little fragments of wild places I’ve been fortunate to wander through.*
+
+:::{layout-ncol="2"}
+![Assateague State Park](assateague-lisland-front.webp){fig-alt="Photo of wildlife from the Assateague State Park" group="assateague"}
+
+![Visited on May 10 - 11, 2025](assateague-island-back.webp){fig-alt="Back of the postcard with the date of visit" group="assateague"}
+:::
+
+---
+
+:::{layout-ncol="2"}
+![Shenandoah National Park](shenandoah-front.webp){fig-alt="Photo of scenery from Shenandoah State Park" group="shenandoah"}
+
+![Visited on May 27, 2023 and October 26, 2024](shenandoah-back.webp){fig-alt="Back of the postcard with the date of visit" group="shenandoah"}
+:::
+
+---
+
+:::{layout-ncol="2"}
+![Luray Caverns In Virginia's Shenandoah Valley](luray-front.webp){fig-alt="Photo of Luray Cavers" group="luray"}
+
+![Visited on May 29, 2023 and October 27, 2024](luray-back.webp){fig-alt="Back of the postcard with the date of visit" group="luray"}
+:::
+
+---
+
+:::{layout-ncol="2"}
+![Catoctin Mountain Park](catoctin-mountain-park-front.webp){fig-alt="Photo of Chimney Rock" group="catoctin"}
+
+![Visited on April 16, 2023](catoctin-mountain-park-back.webp){fig-alt="Back of the postcard with the date of visit" group="catoctin"}
+:::

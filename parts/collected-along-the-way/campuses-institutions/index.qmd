@@ -1,0 +1,21 @@
+# Campuses & Institutions
+
+*Campuses and institutions are more than just buildings — they are places where ideas are born, knowledge is pursued, and communities are shaped. The postcards here capture the spirit of such spaces. Each card reflects not only the architecture of these institutions but also the sense of purpose and curiosity that fills their corridors.*
+
+:::{layout-ncol="2"}
+![Building 1 of the National Institutes of Health (NIH), Bethesda, Maryland](nih-maryland-front.webp){fig-alt="Photo of building 1 of the National Institutes of Health, Bethesda, Maryland" group="nih"}
+
+![I stared working at the NIH in 2019](nih-maryland-back.webp){fig-alt="Back of the postcard with my appointment years at the NIH" group="nih"}
+:::
+
+I began working at the NIH on April 1, 2019, at the Center for Human Immunology (CHI), where I remained until October 2023 before moving to the Vaccine Research Center (VRC), where I continue to work at the time of writing this book. The building pictured is Building 1, which houses the Office of the Director of the NIH. I feel fortunate to have been at NIH during the leadership of Dr. Francis Collins and Dr. Anthony Fauci, directors of the NIH and the National Institute of Allergy and Infectious Diseases (NIAID), and in that sense, my bosses. NIH is one of the crown jewels of American science — a beacon of hope. As Dr. Collins often reminded us, NIH is ultimately the National Institutes of Hope. Of all the opportunities that came with moving to the United States, I value most deeply the privilege of working at NIH alongside some of the world’s most talented people.
+
+---
+
+:::{layout-ncol="2"}
+![Photo of the Memorial Hall, Harvard University](harvard-focis-front.webp){fig-alt="Photo of the Memorial Hall, Harvard University" group=""}
+
+![Visited June 17, 2019](harvard-focis-back.webp){fig-alt="Back of the postcard with the date of visit" group=""}
+:::
+
+My first visit to Harvard University was as a tourist, while in Boston for an academic conference organized by the Federation of Clinical Immunology Societies (FOCIS). During that trip, I also had the chance to explore both the Harvard and MIT campuses.

@@ -6,7 +6,7 @@ book:
   title: "Cards & Stories"
   #description: "An elegant, image-rich postcard book—stories from friends and from Rohit's own wanderings."
   author: "Rohit Farmer"
-  date: "2025-08-28"
+  date: today
   site-url: https://cardsandstories.rohitfarmer.com
   #sharing: [twitter, facebook]
   #downloads: [epub]
@@ -50,8 +50,9 @@ book:
         - parts/sent-by-friends/usa/index.qmd
     - part: parts/collected-along-the-way/index.qmd
       chapters:
-        - parts/collected-along-the-way/outdoors/index.qmd
+        - parts/collected-along-the-way/campuses-institutions/index.qmd
         - parts/collected-along-the-way/museums/index.qmd
+        - parts/collected-along-the-way/outdoors/index.qmd
     - epilog/index.qmd
 
 format:

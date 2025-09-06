@@ -1,3 +1,38 @@
 # Museums, Galleries & Historic Landmarks
 
-Museums hold more than artifacts — they preserve stories, moments, and human creativity. These postcards carry glimpses of history, art, and discovery, collected from quiet museum corners and grand galleries that have left lasting impressions on my travels.
+*Museums and landmarks hold more than artifacts or architecture — they preserve the stories of people, places, and the passage of time. The postcards in this chapter carry glimpses of history, art, and discovery, gathered from grand galleries, quiet museum halls, and iconic landmarks. Each card reflects not just what I saw, but how these places made me pause, remember, and connect with something larger than myself.*
+
+:::{layout-ncol="2"}
+![Tomb of the Unknown Soldier (Arlington National Cemetery)](tomb-of-the-unknown-soldier-front.webp){fig-alt="Photo of the Tomb of the Unknown Soldier with three guards in marching position." group="arlington-brian"}
+
+![Visited on Saturday, December 21, 2019 with Brian Sellers](tomb-of-the-unknown-soldier-back.webp){fig-alt="Back of the postcard with the message as mentioned in the caption." group="arlington-brian"}
+:::
+
+This was my first visit to Arlington National Cemetery, guided by my colleague and friend Brian, who kindly offered to accompany me. I’ve always felt a quiet draw toward cemeteries; they serve as powerful reminders that our time on earth is finite, and that no matter what we achieve, death remains the great equalizer. Yet, as a Christian, I hold to the hope that death is not the final word but a passage - a transition from the mortal to eternal life.
+
+---
+
+:::{layout-ncol="2"}
+![The miracle baby - Ginger! At age 45, the mother, Merah, set a record as the oldest female orangutan to conceive and have a surviving offspring. ](saintlouis-zoo-front.webp){fig-alt="Photot of Ginger with her mother Merah" group="saintlouis-zoo"}
+
+![Visited in 2018](saintlouis-zoo-back.webp){fig-alt="Back of the postcard with the explanation of the photograph in the front." group="saintlouis-zoo"}
+:::
+
+
+:::{layout-ncol="2"}
+![Gateway Arch - Jefferson National Expansion Memorial](saintlouis-gatewayarch-front.webp){fig-alt="Photo of the Jefferson National Expansion Memorial" group="gatewayarch"}
+
+![Visited in 2018](saintlouis-gatewayarch-back.webp){fig-alt="Back of the postcard" group="gatewayarch"}
+:::
+
+These were our first visits to the Saint Louis Zoo and the Gateway Arch, when our oldest daughter, Elsa, was just eight months old. We were fortunate to see the orangutan pictured here and to ride to the top of the Arch for a sweeping view of the Saint Louis cityscape — all on beautiful, sunlit days. 
+
+---
+
+:::{layout-ncol="2"}
+![Statue of Liberty Enlightening the World](liberty-new-york-front.webp){fig-alt="Photo of the Statue of Liberty" group="liberty"}
+
+![Visited on July 14, 2019 with Sibyl and Elsa](liberty-new-york-back.webp){fig-alt="Back of the postcard" group="liberty"}
+:::
+
+This postcard recalls our very first family vacation to New York. We stayed at the old Hotel Pennsylvania, right in the heart of the city, and spent our days exploring its iconic landmarks — from the Statue of Liberty and Ellis Island to the Empire State Building, the 9/11 Memorial, Times Square, Wall Street, and the leafy paths of Central Park. Elsa was just a year and a half then, tucked comfortably in her stroller, taking in the city’s bustle in her own quiet way.
