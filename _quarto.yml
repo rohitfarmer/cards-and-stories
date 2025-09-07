@@ -57,6 +57,9 @@ book:
 
 format:
   html:
+    include-in-header:
+      - text: |
+          <meta name="robots" content="noindex">
     theme:
       - litera
     css: styles.css
@@ -68,9 +71,9 @@ format:
     link-external-newwindow: true
     link-external-icon: true
     
-  epub:
-    cover-image: images/cover.png
-    toc: false
-    number-sections: false
+  #epub:
+   # cover-image: images/cover.png
+   # toc: false
+   # number-sections: false
 
 editor: source

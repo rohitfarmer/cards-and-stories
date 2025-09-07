@@ -8,7 +8,6 @@
 
 # User-specific files
 .Ruserdata
-_book
 *.DS_Store
 
 # Example code in package build process

@@ -1,0 +1,121 @@
+/* 1) Load your Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Lora:wght@400;500;700&display=swap&family=Caveat:wght@400;600&display=swap');
+
+/* 2) Override Bootstrap font variables (used by Litera) */
+:root{
+  --bs-body-font-family: 'Lora', serif;
+  --bs-heading-font-family: 'Playfair Display', serif; /* Bootstrap 5.3+ */
+}
+
+/* 3) Apply body + headings with higher specificity (Litera can be stubborn) */
+html body { font-family: var(--bs-body-font-family) !important; }
+
+h1, h2, h3, h4, h5, h6,
+.quarto-title h1,
+.navbar-brand,
+.sidebar-title,
+.card-title {
+  font-family: var(--bs-heading-font-family), 'Playfair Display', serif !important;
+}
+
+/* Optional: figure/table captions, code blocks */
+figcaption, .table-caption { font-family: 'Lora', serif !important; }
+pre, code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+html, body {
+  background-color: #f9f7f2 !important;
+}
+
+/* Main content */
+.quarto-content {
+  background-color: #f9f7f2 !important;
+}
+
+/* Sidebar */
+#quarto-sidebar,
+#quarto-sidebar .sidebar-content,
+.sidebar,
+.sidebar-navigation,
+.sidebar-header {
+  background-color: #f9f7f2 !important;
+  box-shadow: none !important; /* removes default shadow */
+}
+
+/* Header / Navbar */
+.navbar, .navbar-expand-lg {
+  background-color: #f9f7f2 !important;
+  box-shadow: none !important;
+}
+
+/* Footer — slightly darker shade */
+footer#quarto-footer, .nav-footer {
+  background-color: #ece9e3 !important; /* darker off-white */
+  border-top: 1px solid #d5d1c9;        /* subtle divider line */
+  color: #444;                          /* text slightly darker */
+}
+
+/* Image effects */
+/* Global polaroid look for content images (incl. lightbox thumbs) */
+.quarto-content img,
+.quarto-figure img,
+.lightbox img {
+  background: #fff !important;
+  padding: 10px !important;
+  box-shadow: 0 12px 28px rgba(0,0,0,.55) !important;
+  border-radius: 2px !important;
+  display: block !important;
+  margin: 1.5rem auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Opt-out for any image you don’t want styled */
+.quarto-content img.no-polaroid { 
+  background: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  margin: initial !important;
+}
+
+/* Caption styling — like a Polaroid label */
+.quarto-figure figcaption,
+figure figcaption {
+  font-size: 0.85rem;       /* slightly smaller */
+  color: #666;              /* soft grey */
+  text-align: center;       /* centered under image */
+  margin-top: 0.4rem;       /* small gap */
+  font-style: italic;       /* optional: handwritten feel */
+}
+
+/* Epigraph / motto under Part titles */
+.part-epigraph {
+  font-family: 'Caveat', cursive !important;  /* force Caveat */
+  text-align: center;
+  color: #666;                /* soft grey */
+  font-size: 1rem;            /* slightly smaller than body */
+  margin: 0.5rem auto 2rem;   /* some space above/below */
+  max-width: 600px;           /* keeps it narrow for elegance */
+  line-height: 1.4;
+}
+
+/* Optional: a subtle divider line above epigraph */
+.part-epigraph::before {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 1px;
+  background: #aaa;
+  margin: 0 auto 0.8rem;
+  opacity: 0.4;
+}
+
+.part-epigraph::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 1px;
+  background: #aaa;
+  margin: 0 auto 0.8rem;
+  opacity: 0.4;
+}
