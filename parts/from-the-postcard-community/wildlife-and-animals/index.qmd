@@ -1,0 +1,8 @@
+# Wildlife & Animals
+*Animals often become the most vivid memories of a place — whether seen in the wild, at a zoo, or captured in art. These postcards highlight those encounters, reminding me of the wonder and personality each creature brings to its surroundings.*
+
+:::{layout-ncol="2"}
+![](illinois-chicago-front.webp){fig-alt="postcard front" group="chicago-academy"}
+
+![](illinois-chicago-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="chicago-academy"}
+:::

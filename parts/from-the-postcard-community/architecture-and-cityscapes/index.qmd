@@ -7,3 +7,9 @@
 
 ![](sandiego-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="sandiego-downtown"}
 :::
+
+:::{layout-ncol="2"}
+![](illinois-front.webp){fig-alt="postcard front" group="illinois"}
+
+![](illinois-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="illinois"}
+:::

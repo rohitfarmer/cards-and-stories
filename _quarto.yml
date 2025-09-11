@@ -58,6 +58,7 @@ book:
         - parts/from-the-postcard-community/architecture-and-cityscapes/index.qmd
         - parts/from-the-postcard-community/art-and-design/index.qmd
         - parts/from-the-postcard-community/nature-and-landscapes/index.qmd
+        - parts/from-the-postcard-community/wildlife-and-animals/index.qmd
     - epilog/index.qmd
 
 format:

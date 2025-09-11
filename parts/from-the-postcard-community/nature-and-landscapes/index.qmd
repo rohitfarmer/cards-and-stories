@@ -3,19 +3,25 @@
 *These postcards celebrate the beauty of the natural world — mountains, forests, coasts, and open skies. Each one is a reminder of places where nature invites us to pause, wander, and breathe more deeply.*
 
 :::{layout-ncol="2"}
-![](alaska-mt-mckinely-front.webp){fig-alt="postcard front" group=""}
+![](alaska-mt-mckinely-front.webp){fig-alt="postcard front" group="alaska-mtmckinely"}
 
-![](alaska-mt-mckinely-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group=""}
+![](alaska-mt-mckinely-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="alaska-mtmckinely"}
 :::
 
 :::{layout-ncol="2"}
-![](arizona-front.webp){fig-alt="postcard front" group=""}
+![](arizona-front.webp){fig-alt="postcard front" group="arizona-wupakti"}
 
-![](arizona-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group=""}
+![](arizona-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="arizona-wupakti"}
 :::
 
 :::{layout-ncol="2"}
-![](colorado-front.webp){fig-alt="postcard front" group=""}
+![](colorado-front.webp){fig-alt="postcard front" group="colorado-indianpeaks"}
 
-![](colorado-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group=""}
+![](colorado-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="colorado-indianpeaks"}
+:::
+
+:::{layout-ncol="2"}
+![](idaho-front.webp){fig-alt="postcard front" group="idaho-rafting"}
+
+![](idaho-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="idaho-rafting"}
 :::
