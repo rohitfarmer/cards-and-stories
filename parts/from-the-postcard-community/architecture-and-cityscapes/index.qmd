@@ -1,0 +1,9 @@
+# Architecture & Cityscapes
+
+*These postcards highlight the shapes and skylines that define our cities — from iconic landmarks and historic institutions to everyday streetscapes. Each card captures how buildings tell their own stories of place, purpose, and time.*
+
+:::{layout-ncol="2"}
+![](sandiego-front.webp){fig-alt="postcard front" group="sandiego-downtown"}
+
+![](sandiego-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="sandiego-downtown"}
+:::

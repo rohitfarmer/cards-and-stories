@@ -1,0 +1,10 @@
+# Art & Design
+
+*Some postcards are works of art in themselves — from museum reproductions and vintage posters to handmade designs and creative patterns. These cards capture the imagination, carrying not just a place but an artist’s vision, and reminding me that postcards can be both souvenirs and small pieces of art.*
+
+:::{layout-ncol="2"}
+![Morris Thompson Cultural and Visitors Center, Fairbanks, Alaska](alaska-front.webp){fig-alt="Front of the postcard with a photo of a mosaic from Morris Thompson Cultural and Visitors Center" group="alaska-morris"}
+
+![Postmarked April 22, 2025, with the message "I love to go to museums and places that are similar. This cultural + visitors center has some cool stuff made by the Native Alaskans here. If you ever come up, definitely visit! Good luck getting all of the states! u/Historian-Remarkable"](alaska-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="alaska-morris"}
+:::
+

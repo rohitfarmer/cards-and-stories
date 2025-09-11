@@ -23,7 +23,7 @@ Without inline CSS
 :::{layout-ncol="2"}
 ![](front.webp){fig-alt="postcard front" group=""}
 
-![](back-address-crop.webp){fig-alt="postcard back" group=""}
+![](back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group=""}
 :::
 
 ```

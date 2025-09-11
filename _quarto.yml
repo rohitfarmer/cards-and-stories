@@ -53,6 +53,11 @@ book:
         - parts/collected-along-the-way/campuses-institutions/index.qmd
         - parts/collected-along-the-way/museums/index.qmd
         - parts/collected-along-the-way/outdoors/index.qmd
+    - part: parts/from-the-postcard-community/index.qmd
+      chapters:
+        - parts/from-the-postcard-community/architecture-and-cityscapes/index.qmd
+        - parts/from-the-postcard-community/art-and-design/index.qmd
+        - parts/from-the-postcard-community/nature-and-landscapes/index.qmd
     - epilog/index.qmd
 
 format:
