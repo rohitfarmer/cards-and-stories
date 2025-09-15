@@ -3,25 +3,25 @@
 *These postcards celebrate the beauty of the natural world — mountains, forests, coasts, and open skies. Each one is a reminder of places where nature invites us to pause, wander, and breathe more deeply.*
 
 :::{layout-ncol="2"}
-![](alaska-mt-mckinely-front.webp){fig-alt="postcard front" group="alaska-mtmckinely"}
+![MT. MCKINLEY ALASKA](alaska-mt-mckinely-front.webp){fig-alt="Photo of Mt. McKinley" group="alaska-mtmckinely"}
 
-![](alaska-mt-mckinely-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="alaska-mtmckinely"}
+![Postmarked July 18, 2025, with the message "Hello, I hope this card finds you well. Mt. McKinley is now Denali and is the highest mountain peak in North America ❤️ Rachel"](alaska-mt-mckinely-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="alaska-mtmckinely"}
 :::
 
 :::{layout-ncol="2"}
-![](arizona-front.webp){fig-alt="postcard front" group="arizona-wupakti"}
+![WUPATKI National Monument](arizona-front.webp){fig-alt="Photo of WUPATKI National Monument" group="arizona-wupakti"}
 
-![](arizona-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="arizona-wupakti"}
+![Received in 2025, with the message "Greetings from Arizona! This is one of many native american landmarks in our state. My husband and I have visited it a few times -u/vlovato"](arizona-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="arizona-wupakti"}
 :::
 
 :::{layout-ncol="2"}
-![](colorado-front.webp){fig-alt="postcard front" group="colorado-indianpeaks"}
+![Indian Peaks Wilderness, Colorado](colorado-front.webp){fig-alt="Photo of Indian Peaks Wilderness" group="colorado-indianpeaks"}
 
-![](colorado-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="colorado-indianpeaks"}
+![Postmarked April 2025, with the message "Hi Rohit! Well, I meant to send this before my trip to PA but chances are you'll get the other postcard first. Thank you for the San Diego card! I went there once and I only remember thinking how warm the water was compared to how cold the water was in Half Moon Bay in the Bay Area. Ofcourse, Co is land locked so no beaches for me here! Hope today is sunny + gorgeous! Eliza ❤️ (omgwtflols)"](colorado-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="colorado-indianpeaks"}
 :::
 
 :::{layout-ncol="2"}
-![](idaho-front.webp){fig-alt="postcard front" group="idaho-rafting"}
+![Idaho - White Water Rafting](idaho-front.webp){fig-alt="postcard front" group="idaho-rafting"}
 
-![](idaho-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="idaho-rafting"}
+![Postmarked April 26, 2025, with the message "Hello from Idaho, Land of the outdoors. We just finished swim season + soon it will be hiking + rafting season. Happy Postcard Collecting - Michelle (Daemonswolf)"](idaho-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="idaho-rafting"}
 :::

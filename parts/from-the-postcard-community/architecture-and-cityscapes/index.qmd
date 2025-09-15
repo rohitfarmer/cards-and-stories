@@ -3,13 +3,13 @@
 *These postcards highlight the shapes and skylines that define our cities — from iconic landmarks and historic institutions to everyday streetscapes. Each card captures how buildings tell their own stories of place, purpose, and time.*
 
 :::{layout-ncol="2"}
-![](sandiego-front.webp){fig-alt="postcard front" group="sandiego-downtown"}
+![Downtown San Diego](sandiego-front.webp){fig-alt="postcard front" group="sandiego-downtown"}
 
-![](sandiego-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="sandiego-downtown"}
+![Postmarked April 23, 2025, with the message "Hi there, Rohit! Hope you're well. I'm happy to send you this card from my hometown. The top picture of the Embarcadero South & North. The bottom left is the Seaport Village & the bottom right is of our San Diego Trolley passing the Amtrak station. We love living here because of the things to see & do."](sandiego-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="sandiego-downtown"}
 :::
 
 :::{layout-ncol="2"}
-![](illinois-front.webp){fig-alt="postcard front" group="illinois"}
+![Greetings from Monticello Illinois](illinois-front.webp){fig-alt="postcard front" group="illinois"}
 
-![](illinois-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="illinois"}
+![Postmarked May 20, 2025, with the message "May 9, 2025 GREETINGS FROM MY LITTLE PART OF ILLINOIS! KEEP THE POSTCARDS ALIVE. -xinolonglaoben on REDDIT"](illinois-back-address-crop.webp){fig-alt="Back of the postcard with a message from the sender as mentioned in the figure caption" group="illinois"}
 :::
