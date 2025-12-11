@@ -51,6 +51,7 @@ book:
         - parts/sent-by-friends/ireland/index.qmd
         - parts/sent-by-friends/italy/index.qmd
         - parts/sent-by-friends/usa/index.qmd
+        - parts/sent-by-friends/uk/index.qmd
     - part: parts/collected-along-the-way/index.qmd
       chapters:
         - parts/collected-along-the-way/campuses-institutions/index.qmd
