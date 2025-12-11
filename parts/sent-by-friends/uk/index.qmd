@@ -1,0 +1,17 @@
+# United Kingdom (UK)
+
+:::{layout-ncol="2"}
+![London](london-su-front.webp){fig-alt="Postcard front with a picture of the Buckingham Palace" group="london-su}
+
+![Postmarked September 2025](joshua-tree-np-back-address-crop.webp){fig-alt="Back of the postcard" group="london-su"}
+:::
+
+Sent by my colleague at the NIH, Sucheta, while vacationing in the UK.
+
+:::{layout-ncol="2"}
+![Royal Mile Edinburgh](royal-mile-edinburgh-front.webp){fig-alt="Postcard front with a picture of Royal Mile" group="edinburgh-su}
+
+![Postmarked September 13, 2025, with the message "Hi Rohit, This card gives me a little space to write a message. London one had a nice print on it so could not write over it. Anyway, I would definitely recommend Edinburgh to anybody who is visiting England. I hope you do very soon. Very nice people, nature and food. Best Wishes, Su. PS: Hope and wish you visit all the places in your list "to visit", Su."](royal-mile-edinburgh-back-address-crop.webp){fig-alt="Back of the postcard" group="edinburgh-su"}
+:::
+
+Sent by my colleague at the NIH, Sucheta, while vacationing in the UK.
