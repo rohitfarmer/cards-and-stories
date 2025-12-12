@@ -1,9 +1,9 @@
 # Morocco
 
 :::{layout-ncol="2"}
-![Casa Blanca](casablanca-shalabh-front.webp){fig-alt="Postcard front with a picture of buildings from Casa Blanca" group="london-su"}
+![Casa Blanca](casablanca-shalabh-front.webp){fig-alt="Postcard front with a picture of buildings from Casa Blanca" group="casablanca-shalabh"}
 
-![Postmarked October 2025, with the message "Hey Man! This is my 1st International Trip. Hope this finds you good. Cheers 😃"](casablanca-shalabh-back-address-crop.webp){fig-alt="Back of the postcard" group="london-su"}
+![Postmarked October 2025, with the message "Hey Man! This is my 1st International Trip. Hope this finds you good. Cheers 😃"](casablanca-shalabh-back-address-crop.webp){fig-alt="Back of the postcard" group="casablanca-shalabh"}
 :::
 
 Sent by my best friend in India, Shalabh, during his first international trip to Morocco. An engineer-turned HR manager-turned yoga teacher, Shalabh was in Morocco training people who aspire to become yoga teachers.
