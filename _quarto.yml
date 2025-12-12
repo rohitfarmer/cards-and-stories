@@ -5,14 +5,15 @@ project:
     - CNAME
     - .nojekyll
 
+execute:
+  cache: true
+  freeze: auto
+
 book:
   title: "Cards & Stories"
-  #description: "An elegant, image-rich postcard book—stories from friends and from Rohit's own wanderings."
   author: "Rohit Farmer"
   date: today
   site-url: https://cardsandstories.rohitfarmer.com
-  #sharing: [twitter, facebook]
-  #downloads: [epub]
   page-navigation: true
   back-to-top-navigation: true
   reader-mode: false
@@ -82,9 +83,4 @@ format:
     link-external-newwindow: true
     link-external-icon: true
     
-  #epub:
-   # cover-image: images/cover.png
-   # toc: false
-   # number-sections: false
-
 editor: source
