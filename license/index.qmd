@@ -1,3 +1,8 @@
+---
+toc: false
+freeze: true
+---
+
 # License
 
 © 2025 Rohit Farmer

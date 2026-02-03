@@ -1,9 +1,10 @@
 ---
 toc: false
+freeze: true
 ---
 
 # Dedication & Invitation {.unnumbered}
 
-This book is dedicated to the friends who never forgot to send a card and to the journeys that continue to shape these pages. Each postcard tells a story — of places explored, moments cherished, and connections that transcend distance.
+*This book is dedicated to the friends who never forgot to send a card, and to the journeys that continue to shape these pages.*
 
-Like the adventures it captures, this collection is meant to be ever-evolving. If you’d like to be part of its story, I warmly invite you to send me a postcard from your own travels. Every card will find a home within these pages, carrying your story forward and keeping this collection alive with new voices, places, and memories. To request my mailing address, please write to me at [rohit@rohitfarmer.com](mailto:rohit@rohitfarmer.com).
+This book is meant to be ever-evolving, just like the journeys it reflects. If you would like to be part of its story, I warmly invite you to send me a postcard from your own travels. Each card will find a place among these pages, carrying your story forward and keeping this collection alive with new voices, places, and memories. Please write to me at [rohit@rohitfarmer.com](mailto:rohit@rohitfarmer.com) for my mailing address.
