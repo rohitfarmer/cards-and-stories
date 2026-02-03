@@ -23,8 +23,6 @@ book:
       Cards & Stories was written by Rohit Farmer.
     right: |
       © 2025 Rohit Farmer · <a href="license.html">License</a> ·
-      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
-  
   cover-image: images/cover.webp
   cover-image-alt: |
     Book cover with fronts and backs of selected postcards placed in a grid. 
@@ -69,7 +67,6 @@ format:
   html:
     include-in-header:
       - text: |
-          <meta name="robots" content="noindex">
           <script defer src="https://cloud.umami.is/script.js" data-website-id="eff73109-3747-4a41-9e1f-976cec4e874b"></script>
     theme:
       - litera
