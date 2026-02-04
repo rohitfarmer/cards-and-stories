@@ -20,10 +20,8 @@ book:
   sidebar:
     style: "floating"
   page-footer:
-    left: |
-      Cards & Stories was written by Rohit Farmer.
-    right: |
-      © 2026 Rohit Farmer · <a href="license.html">License</a> ·
+    center: |
+      © 2026 Rohit Farmer · <a href="https://cardsandstories.rohitfarmer.com/license/">License</a> ·
   cover-image: images/cover.webp
   cover-image-alt: |
     Book cover with fronts and backs of selected postcards placed in a grid. 
